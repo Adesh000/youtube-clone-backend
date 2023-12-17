@@ -1,0 +1,15 @@
+{
+  "name": "youtube-clone-backend",
+  "version": "1.0.0",
+  "description": " a clone of youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "adesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
